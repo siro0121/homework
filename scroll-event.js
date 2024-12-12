@@ -1,3 +1,3 @@
 window.addEventListener('scroll', ()=> {
-  console.log('スクロール中');
+  console.log(window.scrollY);
 });
